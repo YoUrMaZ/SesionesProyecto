@@ -8,13 +8,11 @@
     <title>Title</title>
 </head>
 <body>
-<<<<<<< HEAD
-=======
 <%
     HttpSession sesion = request.getSession(true);
     String Cuenta = " ";
 %>
->>>>>>> 5ddb9bd (12-11-2021)
+
 <a href="DatosPersonales.jsp">
     <input type="button" value="1"/>
 </a>
